@@ -9,12 +9,12 @@ My data structures & algorithms practice log, in Python — working toward Googl
 
 ## 📊 Progress Dashboard
 
-![Solved](https://img.shields.io/badge/Solved-7%2F80-1f6feb) ![Easy](https://img.shields.io/badge/Easy-3%2F20-2ea043) ![Medium](https://img.shields.io/badge/Medium-4%2F50-d29922) ![Hard](https://img.shields.io/badge/Hard-0%2F10-f85149)
+![Solved](https://img.shields.io/badge/Solved-8%2F81-1f6feb) ![Easy](https://img.shields.io/badge/Easy-3%2F20-2ea043) ![Medium](https://img.shields.io/badge/Medium-5%2F51-d29922) ![Hard](https://img.shields.io/badge/Hard-0%2F10-f85149)
 
 ```text
-Overall   ██░░░░░░░░░░░░░░░░░░░░  7/80  (9%)
+Overall   ██░░░░░░░░░░░░░░░░░░░░  8/81  (10%)
 Easy      ███░░░░░░░░░░░░░░░░░░░  3/20
-Medium    ██░░░░░░░░░░░░░░░░░░░░  4/50
+Medium    ██░░░░░░░░░░░░░░░░░░░░  5/51
 Hard      ░░░░░░░░░░░░░░░░░░░░░░  0/10
 ```
 
@@ -22,7 +22,7 @@ Hard      ░░░░░░░░░░░░░░░░░░░░░░  0/
 
 | Category | Progress | Solved |
 | :-- | :-- | :-: |
-| Arrays & Hashing | `██████████████░░` | 7/8 |
+| Arrays & Hashing | `██████████████░░` | 8/9 |
 | Two Pointers | `░░░░░░░░░░░░░░░░` | 0/3 |
 | Sliding Window | `░░░░░░░░░░░░░░░░` | 0/4 |
 | Stack | `░░░░░░░░░░░░░░░░` | 0/6 |
@@ -43,11 +43,12 @@ Hard      ░░░░░░░░░░░░░░░░░░░░░░  0/
 
 ### Problem Checklist
 
-<details><summary>🔸 <b>Arrays & Hashing</b> &nbsp;·&nbsp; 7/8</summary>
+<details><summary>🔸 <b>Arrays & Hashing</b> &nbsp;·&nbsp; 8/9</summary>
 
 - [x] 🟢 **[1. Two Sum](https://leetcode.com/problems/two-sum/)** &nbsp;→&nbsp; [`01-arrays-hashing/two_sum.py`](01-arrays-hashing/two_sum.py)
 - [x] 🟢 **[217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)** &nbsp;→&nbsp; [`01-arrays-hashing/contains_duplicate.py`](01-arrays-hashing/contains_duplicate.py)
 - [x] 🟢 **[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)** &nbsp;→&nbsp; [`01-arrays-hashing/valid_anagram.py`](01-arrays-hashing/valid_anagram.py)
+- [x] 🟡 **[36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)** &nbsp;→&nbsp; [`01-arrays-hashing/valid_sudoku.py`](01-arrays-hashing/valid_sudoku.py)
 - [x] 🟡 **[49. Group Anagrams](https://leetcode.com/problems/group-anagrams/)** &nbsp;→&nbsp; [`01-arrays-hashing/group_anagrams.py`](01-arrays-hashing/group_anagrams.py)
 - [ ] 🟡 [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [x] 🟡 **[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)** &nbsp;→&nbsp; [`01-arrays-hashing/product_of_array_except_self.py`](01-arrays-hashing/product_of_array_except_self.py)

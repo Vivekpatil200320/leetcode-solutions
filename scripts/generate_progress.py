@@ -37,6 +37,7 @@ CATALOG = [
         (347, "Top K Frequent Elements", "Medium"),
         (271, "Encode and Decode Strings", "Medium"),
         (238, "Product of Array Except Self", "Medium"),
+        (36, "Valid Sudoku", "Medium"),
         (128, "Longest Consecutive Sequence", "Medium"),
     ]),
     ("02-two-pointers", "Two Pointers", [
