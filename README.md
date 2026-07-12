@@ -2,6 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![NeetCode 75](https://img.shields.io/badge/Roadmap-NeetCode%2075-green)
+[![Update Progress Dashboard](https://github.com/Vivekpatil200320/leetcode-solutions/actions/workflows/update-progress.yml/badge.svg)](https://github.com/Vivekpatil200320/leetcode-solutions/actions/workflows/update-progress.yml)
 
 My data structures & algorithms practice log, in Python — working toward Google-level interview readiness.
 
